@@ -1,16 +1,23 @@
 👋 Hi, I'm Balaji S!
 
-<!--
-**balajisenthilkumarr/balajisenthilkumarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 A passionate B.E. Computer Science and Engineering student with a strong focus on web development and scalable software solutions. I specialize in creating responsive, user-friendly applications using the MERN stack and tools like ReactJS, TailwindCSS, Node.js, and MongoDB.
 
-Here are some ideas to get you started:
+📚 Certifications:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ReactJS
+Database and SQL (Infosys Springboard)
+NodeJS and ExpressJS
+Introduction to Web Development
+🚀 Projects:
+
+To-Do List App: Manage daily tasks with CRUD operations.
+Movie Watchlist App: Track and organize favorite movies.
+Blog Platform: Explore and share blog posts.
+🎯 Skills:
+
+Development: ReactJS, TailwindCSS, Node.js, ExpressJS
+Databases: MongoDB, MySQL
+Tools: Git, Postman, Figma
+💡 Open to opportunities in front-end and full-stack development. Let's collaborate and build something amazing!
+
+📬 GitHub | LinkedIn | Portfolio
